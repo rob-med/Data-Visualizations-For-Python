@@ -4,7 +4,7 @@ A collection of useful snippets for clean data visualizations (for reporting, pu
 ## Structure
 
 Each visualization consists of:
-- A script to create the visualization with Python and matplotlib
+- A Jupyter notebook to create the visualization with Python and matplotlib
 - A .pdf render of the visualization
 
 ## Requirements
