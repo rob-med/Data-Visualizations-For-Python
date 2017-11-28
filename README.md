@@ -12,9 +12,17 @@ Each visualization consists of:
 - **Python** (2 or 3)
 - **Matplotlib** (for visualization), **Numpy** (to generate data)
 
-## Examples
+## Portfolio
 
 #### 2_Categories_Scatter_Plot.png
 ![Scatter Plot](2_Categories_Scatter_Plot.png)
+
 ####  2_Subplots_Vertically_Stacked.png
 ![Vertically Stacked Subplots](2_Subplots_Vertically_Stacked.png)
+
+####  3_Lines_Multi_Marker_Legend.png
+![Multi Marker 3 Lines With Legend](3_Lines_Multi_Marker_Legend.png)
+
+####  Horizontal_Bar_Chart_Log_Scale.png
+![Horizontal Bar Chart in Log Scale](Horizontal_Bar_Chart_Log_Scale.png)
+
