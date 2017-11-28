@@ -11,3 +11,10 @@ Each visualization consists of:
 
 - **Python** (2 or 3)
 - **Matplotlib** (for visualization), **Numpy** (to generate data)
+
+## Examples
+
+#### 2_Categories_Scatter_Plot.png
+![Scatter Plot](2_Categories_Scatter_Plot.png)
+####  2_Subplots_Vertically_Stacked.png
+![Vertically Stacked Subplots](2_Subplots_Vertically_Stacked.png)
